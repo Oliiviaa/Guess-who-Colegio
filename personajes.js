@@ -56,10 +56,6 @@ const personajes = [
         imagen: "imagenes/persona14.jpg"
     },
     {
-        nombre: "Bauti Vaghi",
-        imagen: "imagenes/persona15.jpg"
-    },
-    {
         nombre: "Cami N",
         imagen: "imagenes/persona16.jpg"
     },
