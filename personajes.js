@@ -1,102 +1,102 @@
 const personajes = [
     {
-        nombre: "Persona 1",
+        nombre: "Sofi",
         imagen: "imagenes/persona1.jpg"
     },
     {
-        nombre: "Persona 2",
+        nombre: "Bruno",
         imagen: "imagenes/persona2.jpg"
     },
     {
-        nombre: "Persona 3",
+        nombre: "Cami A",
         imagen: "imagenes/persona3.jpg"
     },
     {
-        nombre: "Persona 4",
+        nombre: "Rami",
         imagen: "imagenes/persona4.jpg"
     },
     {
-        nombre: "Persona 5",
+        nombre: "Julieta",
         imagen: "imagenes/persona5.jpg"
     },
     {
-        nombre: "Persona 6",
+        nombre: "Oli",
         imagen: "imagenes/persona6.jpg"
     },
     {
-        nombre: "Persona 7",
+        nombre: "Tobi",
         imagen: "imagenes/persona7.jpg"
     },
     {
-        nombre: "Persona 8",
+        nombre: "Nahiara",
         imagen: "imagenes/persona8.jpg"
     },
     {
-        nombre: "Persona 9",
+        nombre: "Mercedes",
         imagen: "imagenes/persona9.jpg"
     },
     {
-        nombre: "Persona 10",
+        nombre: "Santi",
         imagen: "imagenes/persona10.jpg"
     },
     {
-        nombre: "Persona 11",
+        nombre: "Sochi",
         imagen: "imagenes/persona11.jpg"
     },
     {
-        nombre: "Persona 12",
+        nombre: "Ian",
         imagen: "imagenes/persona12.jpg"
     },
     {
-        nombre: "Persona 13",
+        nombre: "Camilo",
         imagen: "imagenes/persona13.jpg"
     },
     {
-        nombre: "Persona 14",
+        nombre: "Michu",
         imagen: "imagenes/persona14.jpg"
     },
     {
-        nombre: "Persona 15",
+        nombre: "Bauti Vaghi",
         imagen: "imagenes/persona15.jpg"
     },
     {
-        nombre: "Persona 16",
+        nombre: "Cami N",
         imagen: "imagenes/persona16.jpg"
     },
     {
-        nombre: "Persona 17",
+        nombre: "Juan",
         imagen: "imagenes/persona17.jpg"
     },
     {
-        nombre: "Persona 18",
+        nombre: "Martina",
         imagen: "imagenes/persona18.jpg"
     },
     {
-        nombre: "Persona 19",
+        nombre: "Facu",
         imagen: "imagenes/persona19.jpg"
     },
     {
-        nombre: "Persona 20",
+        nombre: "Emilia",
         imagen: "imagenes/persona20.jpg"
     },
     {
-        nombre: "Persona 21",
+        nombre: "Vic",
         imagen: "imagenes/persona21.jpg"
     },
     {
-        nombre: "Persona 22",
+        nombre: "Lihuen",
         imagen: "imagenes/persona22.jpg"
     },
     {
-        nombre: "Persona 23",
+        nombre: "Julia",
         imagen: "imagenes/persona23.jpg"
     },
     {
-        nombre: "Persona 24",
+        nombre: "Tomas",
         imagen: "imagenes/persona24.jpg"
     },
     {
-        nombre: "Persona 25",
+        nombre: "Euge",
         imagen: "imagenes/persona25.jpg"
     }
 ];
